@@ -34,5 +34,5 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ``` bash
 $ hexo deploy
 ```
-
+1
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
